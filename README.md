@@ -22,7 +22,7 @@ sudo chmod +x makeproj.sh
 ```
 
 ```sh
-./makeproj.sh <exercise_name>`
+./makeproj.sh <exercise_name>
 ```
 
 stanford library for linux was modified by [Badonix](https://github.com/Badonix)
