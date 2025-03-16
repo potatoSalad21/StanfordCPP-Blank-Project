@@ -39,7 +39,7 @@ clean scratch: tidy
 ## CPP FILE
 #
 echo "#include <iostream>
-#include \"./StanfordCPPLib/console.h\"
+#include \"StanfordCPPLib/console.h\"
 using namespace std;
 
 int main() {
